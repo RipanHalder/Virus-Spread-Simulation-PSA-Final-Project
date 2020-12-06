@@ -1,0 +1,80 @@
+,airport_name,code,country,flights_per_month
+0,West Palm Beach (PBI),PBI,United States,109
+1,Nantucket (ACK),ACK,United States,97
+2,Minneapolis (MSP),MSP,United States,96
+3,Massena (MSS),MSS,United States,95
+4,Bar Harbor (BHB),BHB,United States,93
+5,Rockland (RKD),RKD,United States,93
+6,Augusta (AUG),AUG,United States,93
+7,Saranac Lake (SLK),SLK,United States,93
+8,Rutland (RUT),RUT,United States,93
+9,New York City (LGA),LGA,United States,79
+10,Nashville (BNA),BNA,United States,78
+11,Houston (IAH),IAH,United States,76
+12,Pittsburgh (PIT),PIT,United States,65
+13,Provincetown (PVC),PVC,United States,63
+14,Martha's Vineyard (MVY),MVY,United States,62
+15,Salt Lake City (SLC),SLC,United States,60
+16,Phoenix (PHX),PHX,United States,56
+17,Washington (IAD),IAD,United States,52
+18,Chicago (MDW),MDW,United States,52
+19,Richmond (RIC),RIC,United States,50
+20,Cleveland (CLE),CLE,United States,45
+21,San Diego (SAN),SAN,United States,38
+22,Las Vegas (LAS),LAS,United States,37
+23,Sarasota / Bradenton (SRQ),SRQ,United States,33
+24,Jacksonville (JAX),JAX,United States,31
+25,Hyannis (HYA),HYA,United States,31
+26,Savannah (SAV),SAV,United States,29
+27,Austin (AUS),AUS,United States,25
+28,Charleston (CHS),CHS,United States,25
+29,Cincinnati (CVG),CVG,United States,20
+30,Buffalo (BUF),BUF,United States,17
+31,New Orleans (MSY),MSY,United States,16
+32,Myrtle Beach (MYR),MYR,United States,14
+33,Key West (EYW),EYW,United States,12
+34,Rochester (ROC),ROC,United States,11
+35,St. Louis (STL),STL,United States,6
+36,Destin / Fort Walton Beach (VPS),VPS,United States,5
+37,Montrose (MTJ),MTJ,United States,4
+38,Hayden (HDN),HDN,United States,4
+39,Honolulu (HNL),HNL,United States,4
+40,Asheville (AVL),AVL,United States,4
+41,Syracuse (SYR),SYR,United States,4
+42,Bozeman (BZN),BZN,United States,2
+43,Palm Springs (PSP),PSP,United States,2
+44,Houston (HOU),HOU,United States,2
+45,Milwaukee (MKE),MKE,United States,0
+46,Burbank (BUR),BUR,United States,0
+47,Sacramento (SMF),SMF,United States,0
+48,Grand Rapids (GRR),GRR,United States,0
+49,Columbus (CMH),CMH,United States,0
+50,Kansas City (MCI),MCI,United States,0
+51,Harrisburg (MDT),MDT,United States,0
+52,Memphis (MEM),MEM,United States,0
+53,Indianapolis (IND),IND,United States,0
+54,San Jose (SJC),SJC,United States,0
+55,Portland (PWM),PWM,United States,0
+56,Knoxville (TYS),TYS,United States,0
+57,Portland (PDX),PDX,United States,0
+58,Orlando (MCO),MCO,United States,315
+59,Fort Lauderdale (FLL),FLL,United States,274
+60,Atlanta (ATL),ATL,United States,252
+61,Charlotte (CLT),CLT,United States,214
+62,Tampa (TPA),TPA,United States,192
+63,Chicago (ORD),ORD,United States,184
+64,Fort Myers (RSW),RSW,United States,182
+65,Washington (DCA),DCA,United States,171
+66,Philadelphia (PHL),PHL,United States,164
+67,Los Angeles (LAX),LAX,United States,163
+68,Dallas-Fort Worth (DFW),DFW,United States,153
+69,New York (EWR),EWR,United States,152
+70,Baltimore-Washington (BWI),BWI,United States,148
+71,New York City (JFK),JFK,United States,146
+72,Denver (DEN),DEN,United States,136
+73,Detroit (DTW),DTW,United States,132
+74,Lebanon (LEB),LEB,United States,124
+75,Raleigh / Durham (RDU),RDU,United States,118
+76,Seattle / Tacoma (SEA),SEA,United States,117
+77,San Francisco (SFO),SFO,United States,115
+78,Miami (MIA),MIA,United States,111
