@@ -1,0 +1,597 @@
+,link,code,name,city,country
+0,/flights-from-allentown-abe,ABE,Lehigh Valley International Airpo,Allentown,United States
+1,/flights-from-abilene-abi,ABI,Abilene Regional Airport,Abilene,United States
+2,/flights-from-ambler-abl,ABL,Ambler Airport (FAA: AFM),Ambler,United States
+3,/flights-from-albuquerque-abq,ABQ,Albuquerque International Sunport,Albuquerque,United States
+4,/flights-from-aberdeen-abr,ABR,Aberdeen Regional Airport,Aberdeen,United States
+5,/flights-from-albany-aby,ABY,Southwest Georgia Regional Airpor,Albany,United States
+6,/flights-from-nantucket-ack,ACK,Nantucket Memorial Airport,Nantucket,United States
+7,/flights-from-waco-act,ACT,Waco Regional Airport,Waco,United States
+8,/flights-from-arcata-eureka-acv,ACV,Arcata-Eureka Airport,Arcata / Eureka,United States
+9,/flights-from-atlantic-city-acy,ACY,Atlantic City International Airpo,Atlantic City,United States
+10,/flights-from-adak-island-adk,ADK,Adak Island Airport,Adak Island,United States
+11,/flights-from-kodiak-adq,ADQ,Kodiak Airport,Kodiak,United States
+12,/flights-from-allakaket-aet,AET,Allakaket Airport (FAA: 6A8),Allakaket,United States
+13,/flights-from-alexandria-aex,AEX,Alexandria International Airport,Alexandria,United States
+14,/flights-from-angoon-agn,AGN,Angoon Seaplane Base,Angoon,United States
+15,/flights-from-augusta-ags,AGS,Augusta Regional Airport at Bush ,Augusta,United States
+16,/flights-from-alliance-aia,AIA,Alliance Municipal Airport,Alliance,United States
+17,/flights-from-wainwright-ain,AIN,Wainwright Airport (FAA: AWI),Wainwright,United States
+18,/flights-from-akiak-aki,AKI,Akiak Airport,Akiak,United States
+19,/flights-from-akhiok-akk,AKK,Akhiok Airport,Akhiok,United States
+20,/flights-from-king-salmon-akn,AKN,King Salmon Airport,King Salmon,United States
+21,/flights-from-anaktuvuk-pass-akp,AKP,Anaktuvuk Pass Airport,Anaktuvuk Pass,United States
+22,/flights-from-albany-alb,ALB,Albany International Airport,Albany,United States
+23,/flights-from-waterloo-alo,ALO,Waterloo Regional Airport,Waterloo,United States
+24,/flights-from-alamosa-als,ALS,San Luis Valley Regional Airport,Alamosa,United States
+25,/flights-from-walla-walla-alw,ALW,Walla Walla Regional Airport,Walla Walla,United States
+26,/flights-from-lazy-bay-alz,ALZ,Alitak Seaplane Base,Lazy Bay,United States
+27,/flights-from-amarillo-ama,AMA,Rick Husband Amarillo Internation,Amarillo,United States
+28,/flights-from-anchorage-anc,ANC,Ted Stevens Anchorage Internation,Anchorage,United States
+29,/flights-from-aniak-ani,ANI,Aniak Airport,Aniak,United States
+30,/flights-from-anvik-anv,ANV,Anvik Airport,Anvik,United States
+31,/flights-from-altoona-aoo,AOO,Altoona-Blair County Airport,Altoona,United States
+32,/flights-from-amook-bay-aos,AOS,Amook Bay Seaplane Base (FAA: AK8,Amook Bay,United States
+33,/flights-from-alpena-apn,APN,Alpena County Regional Airport,Alpena,United States
+34,/flights-from-arctic-village-arc,ARC,Arctic Village Airport,Arctic Village,United States
+35,/flights-from-watertown-art,ART,Watertown International Airport,Watertown,United States
+36,/flights-from-aspen-ase,ASE,Aspen-Pitkin County Airport (Sard,Aspen,United States
+37,/flights-from-atqasuk-atk,ATK,Atqasuk Edward Burnell Sr. Memori,Atqasuk,United States
+38,/flights-from-atlanta-atl,ATL,Hartsfield–Jackson Atlanta Inte,Atlanta,United States
+39,/flights-from-atmautluak-att,ATT,Atmautluak Airport (FAA: 4A2),Atmautluak,United States
+40,/flights-from-appleton-atw,ATW,Outagamie County Regional Airport,Appleton,United States
+41,/flights-from-watertown-aty,ATY,Watertown Regional Airport,Watertown,United States
+42,/flights-from-augusta-aug,AUG,Augusta State Airport,Augusta,United States
+43,/flights-from-austin-aus,AUS,Austin-Bergstrom International Ai,Austin,United States
+44,/flights-from-asheville-avl,AVL,Asheville Regional Airport,Asheville,United States
+45,/flights-from-wilkes-barre-avp,AVP,Wilkes-Barre/Scranton Internation,Wilkes-Barre,United States
+46,/flights-from-phoenix-aza,AZA,Phoenix-Mesa Gateway Airport (FAA,Phoenix,United States
+47,/flights-from-kalamazoo-battle-creek-azo,AZO,Kalamazoo/Battle Creek Internatio,Kalamazoo / Battle Creek,United States
+48,/flights-from-hartford-bdl,BDL,Bradley International Airport,Hartford,United States
+49,/flights-from-bethel-bet,BET,Bethel Airport,Bethel,United States
+50,/flights-from-bradford-bfd,BFD,Bradford Regional Airport,Bradford,United States
+51,/flights-from-scottsbluff-bff,BFF,Western Nebraska Regional Airport,Scottsbluff,United States
+52,/flights-from-seattle-bfi,BFI,Boeing Field/King County Internat,Seattle,United States
+53,/flights-from-bakersfield-bfl,BFL,Meadows Field,Bakersfield,United States
+54,/flights-from-binghamton-bgm,BGM,Greater Binghamton Airport (Edwin,Binghamton,United States
+55,/flights-from-bangor-bgr,BGR,Bangor International Airport,Bangor,United States
+56,/flights-from-bar-harbor-bhb,BHB,Hancock County-Bar Harbor Airport,Bar Harbor,United States
+57,/flights-from-birmingham-bhm,BHM,Birmingham-Shuttlesworth Internat,Birmingham,United States
+58,/flights-from-billings-bil,BIL,Billings Logan International Airp,Billings,United States
+59,/flights-from-bismarck-bis,BIS,Bismarck Municipal Airport,Bismarck,United States
+60,/flights-from-bemidji-bji,BJI,Bemidji Regional Airport,Bemidji,United States
+61,/flights-from-buckland-bkc,BKC,Buckland Airport (FAA: BVK),Buckland,United States
+62,/flights-from-branson-bkg,BKG,Branson Airport (FAA: BBG),Branson,United States
+63,/flights-from-beckley-bkw,BKW,Raleigh County Memorial Airport,Beckley,United States
+64,/flights-from-bellingham-bli,BLI,Bellingham International Airport,Bellingham,United States
+65,/flights-from-belleville-blv,BLV,MidAmerica St. Louis Airport / Sc,Belleville,United States
+66,/flights-from-bloomington-bmi,BMI,Central Illinois Regional Airport,Bloomington,United States
+67,/flights-from-nashville-bna,BNA,Nashville International Airport,Nashville,United States
+68,/flights-from-boise-boi,BOI,Boise Air Terminal (Gowen Field),Boise,United States
+69,/flights-from-boston-bos,BOS,Logan International Airport,Boston,United States
+70,/flights-from-beaumont-port-arthur-bpt,BPT,Southeast Texas Regional Airport,Beaumont / Port Arthur,United States
+71,/flights-from-brunswick-bqk,BQK,Brunswick Golden Isles Airport,Brunswick,United States
+72,/flights-from-brainerd-brd,BRD,Brainerd Lakes Regional Airport,Brainerd,United States
+73,/flights-from-burlington-brl,BRL,Southeast Iowa Regional Airport,Burlington,United States
+74,/flights-from-brownsville-bro,BRO,Brownsville,Brownsville,United States
+75,/flights-from-barrow-brw,BRW,Wiley Post–Will Rogers Memorial Airport,Barrow,United States
+76,/flights-from-barter-island-bti,BTI,Barter Island LRRS Airport,Barter Island,United States
+77,/flights-from-butte-btm,BTM,Bert Mooney Airport,Butte,United States
+78,/flights-from-baton-rouge-btr,BTR,Baton Rouge Metropolitan Airport (Ryan Field),Baton Rouge,United States
+79,/flights-from-bettles-btt,BTT,Bettles Airport,Bettles,United States
+80,/flights-from-burlington-btv,BTV,Burlington International Airport,Burlington,United States
+81,/flights-from-buffalo-buf,BUF,Buffalo Niagara International Airport,Buffalo,United States
+82,/flights-from-burbank-bur,BUR,Bob Hope Airport,Burbank,United States
+83,/flights-from-baltimore-washington-bwi,BWI,Baltimore/Washington International Thurgood Marshall Ai,Baltimore-Washington,United States
+84,/flights-from-bozeman-bzn,BZN,Gallatin Field Airport,Bozeman,United States
+85,/flights-from-columbia-cae,CAE,Columbia Metropolitan Airport,Columbia,United States
+86,/flights-from-akron-cak,CAK,Akron-Canton Regional Airport,Akron,United States
+87,/flights-from-cold-bay-cdb,CDB,Cold Bay Airport,Cold Bay,United States
+88,/flights-from-cedar-city-cdc,CDC,Cedar City Regional Airport,Cedar City,United States
+89,/flights-from-chadron-cdr,CDR,Chadron Municipal Airport,Chadron,United States
+90,/flights-from-cordova-cdv,CDV,Merle K. (Mudhole) Smith Airport,Cordova,United States
+91,/flights-from-crescent-city-cec,CEC,Jack McNamara Field,Crescent City,United States
+92,/flights-from-cortez-cez,CEZ,Cortez Municipal Airport,Cortez,United States
+93,/flights-from-craig-cga,CGA,Craig Seaplane Base,Craig,United States
+94,/flights-from-cape-girardeau-cgi,CGI,Cape Girardeau Regional Airport,Cape Girardeau,United States
+95,/flights-from-chattanooga-cha,CHA,Chattanooga Metropolitan Airport (Lovell Field),Chattanooga,United States
+96,/flights-from-charlottesville-cho,CHO,Charlottesville-Albemarle Airport,Charlottesville,United States
+97,/flights-from-charleston-chs,CHS,Charleston International Airport / Charleston AFB,Charleston,United States
+98,/flights-from-chuathbaluk-chu,CHU,Chuathbaluk Airport (FAA: 9A3),Chuathbaluk,United States
+99,/flights-from-cedar-rapids-cid,CID,The Eastern Iowa Airport,Cedar Rapids,United States
+100,/flights-from-chalkyitsik-cik,CIK,Chalkyitsik Airport,Chalkyitsik,United States
+101,/flights-from-sault-sainte-marie-ciu,CIU,Chippewa County International Airport,Sault Sainte Marie,United States
+102,/flights-from-clarksburg-ckb,CKB,North Central West Virginia Airport,Clarksburg,United States
+103,/flights-from-crooked-creek-ckd,CKD,Crooked Creek Airport (FAA: CJX),Crooked Creek,United States
+104,/flights-from-chicken-ckx,CKX,Chicken Airport,Chicken,United States
+105,/flights-from-cleveland-cle,CLE,Cleveland Hopkins International Airport,Cleveland,United States
+106,/flights-from-college-station-cll,CLL,Easterwood Airport (Easterwood Field),College Station,United States
+107,/flights-from-clarks-point-clp,CLP,Clarks Point Airport,Clarks Point,United States
+108,/flights-from-charlotte-clt,CLT,Charlotte/Douglas International Airport,Charlotte,United States
+109,/flights-from-columbus-cmh,CMH,Port Columbus International Airport,Columbus,United States
+110,/flights-from-champaign-urbana-cmi,CMI,University of Illinois Willard Airport,Champaign-Urbana,United States
+111,/flights-from-houghton-cmx,CMX,Houghton County Memorial Airport,Houghton,United States
+112,/flights-from-carlsbad-cnm,CNM,Cavern City Air Terminal,Carlsbad,United States
+113,/flights-from-moab-cny,CNY,Canyonlands Field,Moab,United States
+114,/flights-from-cody-cod,COD,Yellowstone Regional Airport,Cody,United States
+115,/flights-from-colorado-springs-cos,COS,Colorado Springs Airport,Colorado Springs,United States
+116,/flights-from-columbia-cou,COU,Columbia Regional Airport,Columbia,United States
+117,/flights-from-casper-cpr,CPR,Natrona County International Airport,Casper,United States
+118,/flights-from-corpus-christi-crp,CRP,Corpus Christi International Airport,Corpus Christi,United States
+119,/flights-from-charleston-crw,CRW,Yeager Airport,Charleston,United States
+120,/flights-from-columbus-csg,CSG,Columbus Airport,Columbus,United States
+121,/flights-from-cincinnati-cvg,CVG,Cincinnati/Northern Kentucky International Airport,Cincinnati,United States
+122,/flights-from-clovis-cvn,CVN,Clovis Municipal Airport,Clovis,United States
+123,/flights-from-wausau-cwa,CWA,Central Wisconsin Airport,Wausau,United States
+124,/flights-from-chefornak-cyf,CYF,Chefornak Airport (FAA: CFK),Chefornak,United States
+125,/flights-from-cheyenne-cys,CYS,Cheyenne Regional Airport (Jerry Olson Field),Cheyenne,United States
+126,/flights-from-chisana-czn,CZN,Chisana Airport,Chisana,United States
+127,/flights-from-daytona-beach-dab,DAB,Daytona Beach International Airport,Daytona Beach,United States
+128,/flights-from-dallas-dal,DAL,Dallas Love Field,Dallas,United States
+129,/flights-from-dayton-day,DAY,James M. Cox International Airport,Dayton,United States
+130,/flights-from-dubuque-dbq,DBQ,Dubuque Regional Airport,Dubuque,United States
+131,/flights-from-washington-dca,DCA,Ronald Reagan Washington National Airport,Washington,United States
+132,/flights-from-dodge-city-ddc,DDC,Dodge City Regional Airport,Dodge City,United States
+133,/flights-from-decatur-dec,DEC,Decatur Airport,Decatur,United States
+134,/flights-from-denver-den,DEN,Denver International Airport (succeeded Stapleton Airpo,Denver,United States
+135,/flights-from-dallas-fort-worth-dfw,DFW,Dallas/Fort Worth International Airport,Dallas-Fort Worth,United States
+136,/flights-from-dothan-dhn,DHN,Dothan Regional Airport,Dothan,United States
+137,/flights-from-dickinson-dik,DIK,Theodore Roosevelt Regional Airport,Dickinson,United States
+138,/flights-from-delta-junction-djn,DJN,Delta Junction Airport (FAA: D66),Delta Junction,United States
+139,/flights-from-dillingham-dlg,DLG,Dillingham Airport,Dillingham,United States
+140,/flights-from-duluth-dlh,DLH,Duluth International Airport,Duluth,United States
+141,/flights-from-deering-drg,DRG,Deering Airport (FAA: DEE),Deering,United States
+142,/flights-from-durango-dro,DRO,Durango-La Plata County Airport,Durango,United States
+143,/flights-from-del-rio-drt,DRT,Del Rio International Airport,Del Rio,United States
+144,/flights-from-destin-dsi,DSI,Destin-Fort Walton Beach Airport (FAA: DTS),Destin,United States
+145,/flights-from-des-moines-dsm,DSM,Des Moines International Airport,Des Moines,United States
+146,/flights-from-detroit-dtw,DTW,Detroit Metropolitan Wayne County Airport,Detroit,United States
+147,/flights-from-dubois-duj,DUJ,DuBois Regional Airport (formerly DuBois-Jefferson Coun,DuBois,United States
+148,/flights-from-unalaska-dut,DUT,Unalaska Airport,Unalaska,United States
+149,/flights-from-devils-lake-dvl,DVL,Devils Lake Municipal Airport,Devils Lake,United States
+150,/flights-from-eagle-eaa,EAA,Eagle Airport,Eagle,United States
+151,/flights-from-kearney-ear,EAR,Kearney Regional Airport,Kearney,United States
+152,/flights-from-wenatchee-eat,EAT,Pangborn Memorial Airport,Wenatchee,United States
+153,/flights-from-eau-claire-eau,EAU,Chippewa Valley Regional Airport,Eau Claire,United States
+154,/flights-from-panama-city-ecp,ECP,Northwest Florida Beaches International Airport,Panama City,United States
+155,/flights-from-edna-bay-eda,EDA,Edna Bay Municipal Airport (or Seaplane Base?),Edna Bay,United States
+156,/flights-from-eek-eek,EEK,Eek Airport,Eek,United States
+157,/flights-from-vail-eagle-ege,EGE,Eagle County Regional Airport,Vail / Eagle,United States
+158,/flights-from-egegik-egx,EGX,Egegik Airport (FAA: EII),Egegik,United States
+159,/flights-from-elko-eko,EKO,Elko Regional Airport,Elko,United States
+160,/flights-from-el-dorado-eld,ELD,South Arkansas Regional Airport at Goodwin Field,El Dorado,United States
+161,/flights-from-elim-eli,ELI,Elim Airport,Elim,United States
+162,/flights-from-elmira-corning-elm,ELM,Elmira/Corning Regional Airport,Elmira / Corning,United States
+163,/flights-from-el-paso-elp,ELP,El Paso International Airport,El Paso,United States
+164,/flights-from-elfin-cove-elv,ELV,Elfin Cove Seaplane Base,Elfin Cove,United States
+165,/flights-from-kenai-ena,ENA,Kenai Municipal Airport,Kenai,United States
+166,/flights-from-erie-eri,ERI,Erie International Airport (Tom Ridge Field),Erie,United States
+167,/flights-from-escanaba-esc,ESC,Delta County Airport,Escanaba,United States
+168,/flights-from-eastsound-esd,ESD,Orcas Island Airport (FAA: ORS),Eastsound,United States
+169,/flights-from-eugene-eug,EUG,Eugene Airport / Mahlon Sweet Field,Eugene,United States
+170,/flights-from-evansville-evv,EVV,Evansville Regional Airport,Evansville,United States
+171,/flights-from-new-bedford-ewb,EWB,New Bedford Regional Airport,New Bedford,United States
+172,/flights-from-new-bern-ewn,EWN,Craven County Regional Airport,New Bern,United States
+173,/flights-from-new-york-ewr,EWR,Newark Liberty International Airport,New York,United States
+174,/flights-from-excursion-inlet-exi,EXI,Excursion Inlet Seaplane Base,Excursion Inlet,United States
+175,/flights-from-key-west-eyw,EYW,Key West International Airport,Key West,United States
+176,/flights-from-fairbanks-fai,FAI,Fairbanks International Airport,Fairbanks,United States
+177,/flights-from-fargo-far,FAR,Hector International Airport,Fargo,United States
+178,/flights-from-fresno-fat,FAT,Fresno Yosemite International Airport,Fresno,United States
+179,/flights-from-fayetteville-fay,FAY,Fayetteville Regional Airport (Grannis Field),Fayetteville,United States
+180,/flights-from-kalispell-fca,FCA,Glacier Park International Airport (FAA: GPI),Kalispell,United States
+181,/flights-from-flagstaff-flg,FLG,Flagstaff Pulliam Airport,Flagstaff,United States
+182,/flights-from-fort-lauderdale-fll,FLL,Fort Lauderdale – Hollywood International Airport,Fort Lauderdale,United States
+183,/flights-from-florence-flo,FLO,Florence Regional Airport,Florence,United States
+184,/flights-from-flint-fnt,FNT,Bishop International Airport,Flint,United States
+185,/flights-from-fort-dodge-fod,FOD,Fort Dodge Regional Airport,Fort Dodge,United States
+186,/flights-from-friday-harbor-frd,FRD,Friday Harbor Airport (FAA: FHR),Friday Harbor,United States
+187,/flights-from-sioux-falls-fsd,FSD,Sioux Falls Regional Airport (Joe Foss Field),Sioux Falls,United States
+188,/flights-from-fort-smith-fsm,FSM,Fort Smith Regional Airport,Fort Smith,United States
+189,/flights-from-fort-wayne-fwa,FWA,Fort Wayne International Airport,Fort Wayne,United States
+190,/flights-from-fort-yukon-fyu,FYU,Fort Yukon Airport,Fort Yukon,United States
+191,/flights-from-galena-gal,GAL,Edward G. Pitka Sr. Airport,Galena,United States
+192,/flights-from-gambell-gam,GAM,Gambell Airport,Gambell,United States
+193,/flights-from-gillette-gcc,GCC,Gillette-Campbell County Airport,Gillette,United States
+194,/flights-from-garden-city-gck,GCK,Garden City Regional Airport,Garden City,United States
+195,/flights-from-grand-canyon-gcn,GCN,Grand Canyon National Park Airport,Grand Canyon,United States
+196,/flights-from-grand-canyon-west-gcw,GCW,Grand Canyon West Airport,Grand Canyon West,United States
+197,/flights-from-glendive-gdv,GDV,Dawson Community Airport,Glendive,United States
+198,/flights-from-spokane-geg,GEG,Spokane International Airport,Spokane,United States
+199,/flights-from-grand-forks-gfk,GFK,Grand Forks International Airport,Grand Forks,United States
+200,/flights-from-longview-ggg,GGG,East Texas Regional Airport,Longview,United States
+201,/flights-from-glasgow-ggw,GGW,Glasgow Airport (Wokal Field),Glasgow,United States
+202,/flights-from-grand-junction-gjt,GJT,Grand Junction Regional Airport (Walker Field),Grand Junction,United States
+203,/flights-from-greenville-glh,GLH,Mid-Delta Regional Airport,Greenville,United States
+204,/flights-from-golovin-glv,GLV,Golovin Airport,Golovin,United States
+205,/flights-from-goodnews-bay-gnu,GNU,Goodnews Airport,Goodnews Bay,United States
+206,/flights-from-gainesville-gnv,GNV,Gainesville Regional Airport,Gainesville,United States
+207,/flights-from-gulfport-biloxi-gpt,GPT,Gulfport-Biloxi International Airport,Gulfport / Biloxi,United States
+208,/flights-from-green-bay-grb,GRB,Austin Straubel International Airport,Green Bay,United States
+209,/flights-from-grand-island-gri,GRI,Central Nebraska Regional Airport,Grand Island,United States
+210,/flights-from-fort-hood-killeen-grk,GRK,Killeen-Fort Hood Regional Airport (Robert Gray Army Ai,Fort Hood / Killeen,United States
+211,/flights-from-grand-rapids-grr,GRR,Gerald R. Ford International Airport,Grand Rapids,United States
+212,/flights-from-greensboro-gso,GSO,Piedmont Triad International Airport,Greensboro,United States
+213,/flights-from-greenville-spartanburg-gsp,GSP,Greenville-Spartanburg International Airport,Greenville / Spartanburg,United States
+214,/flights-from-gustavus-gst,GST,Gustavus Airport,Gustavus,United States
+215,/flights-from-great-falls-gtf,GTF,Great Falls International Airport,Great Falls,United States
+216,/flights-from-columbus-gtr,GTR,Golden Triangle Regional Airport,Columbus,United States
+217,/flights-from-gunnison-guc,GUC,Gunnison-Crested Butte Regional Airport,Gunnison,United States
+218,/flights-from-haycock-hay,HAY,Haycock Airport,Haycock,United States
+219,/flights-from-holy-cross-hcr,HCR,Holy Cross Airport (FAA: HCA),Holy Cross,United States
+220,/flights-from-hayden-hdn,HDN,Yampa Valley Airport,Hayden,United States
+221,/flights-from-hagerstown-hgr,HGR,Hagerstown Regional Airport (Richard A. Henson Field),Hagerstown,United States
+222,/flights-from-hilton-head-island-hhh,HHH,Hilton Head Airport (FAA: HXD),Hilton Head Island,United States
+223,/flights-from-hawthorne-hhr,HHR,Hawthorne Municipal Airport (Jack Northrop Field),Hawthorne,United States
+224,/flights-from-hibbing-hib,HIB,Chisholm-Hibbing Airport,Hibbing,United States
+225,/flights-from-healy-lake-hkb,HKB,Healy River Airport (FAA: HRR),Healy Lake,United States
+226,/flights-from-helena-hln,HLN,Helena Regional Airport,Helena,United States
+227,/flights-from-hoonah-hnh,HNH,Hoonah Airport,Hoonah,United States
+228,/flights-from-honolulu-hnl,HNL,Honolulu International Airport,Honolulu,United States
+229,/flights-from-hana-hnm,HNM,Hana Airport,Hana,United States
+230,/flights-from-haines-hns,HNS,Haines Airport,Haines,United States
+231,/flights-from-hobbs-hob,HOB,Lea County Regional Airport,Hobbs,United States
+232,/flights-from-homer-hom,HOM,Homer Airport,Homer,United States
+233,/flights-from-hot-springs-hot,HOT,Memorial Field Airport,Hot Springs,United States
+234,/flights-from-houston-hou,HOU,William P. Hobby Airport,Houston,United States
+235,/flights-from-hooper-bay-hpb,HPB,Hooper Bay Airport,Hooper Bay,United States
+236,/flights-from-white-plains-hpn,HPN,Westchester County Airport,White Plains,United States
+237,/flights-from-harlingen-hrl,HRL,Valley International Airport,Harlingen,United States
+238,/flights-from-harrison-hro,HRO,Boone County Airport,Harrison,United States
+239,/flights-from-huslia-hsl,HSL,Huslia Airport (FAA: HLA),Huslia,United States
+240,/flights-from-huntsville-hsv,HSV,Huntsville International Airport (Carl T. Jones Field),Huntsville,United States
+241,/flights-from-huntington-hts,HTS,Tri-State Airport (Milton J. Ferguson Field),Huntington,United States
+242,/flights-from-hughes-hus,HUS,Hughes Airport,Hughes,United States
+243,/flights-from-havre-hvr,HVR,Havre City-County Airport,Havre,United States
+244,/flights-from-hyannis-hya,HYA,Barnstable Municipal Airport (Boardman/Polando Field),Hyannis,United States
+245,/flights-from-hydaburg-hyg,HYG,Hydaburg Seaplane Base,Hydaburg,United States
+246,/flights-from-hays-hys,HYS,Hays Regional Airport,Hays,United States
+247,/flights-from-washington-iad,IAD,Washington Dulles International Airport,Washington,United States
+248,/flights-from-niagara-falls-iag,IAG,Niagara Falls International Airport,Niagara Falls,United States
+249,/flights-from-houston-iah,IAH,George Bush Intercontinental Airport,Houston,United States
+250,/flights-from-kiana-ian,IAN,Bob Baker Memorial Airport,Kiana,United States
+251,/flights-from-wichita-ict,ICT,Wichita Mid-Continent Airport,Wichita,United States
+252,/flights-from-idaho-falls-ida,IDA,Idaho Falls Regional Airport,Idaho Falls,United States
+253,/flights-from-igiugig-igg,IGG,Igiugig Airport,Igiugig,United States
+254,/flights-from-wilmington-ilg,ILG,New Castle Airport,Wilmington,United States
+255,/flights-from-iliamna-ili,ILI,Iliamna Airport,Iliamna,United States
+256,/flights-from-wilmington-ilm,ILM,Wilmington International Airport,Wilmington,United States
+257,/flights-from-iron-mountain-imt,IMT,Ford Airport,Iron Mountain,United States
+258,/flights-from-indianapolis-ind,IND,Indianapolis International Airport,Indianapolis,United States
+259,/flights-from-international-falls-inl,INL,Falls International Airport,International Falls,United States
+260,/flights-from-imperial-el-centro-ipl,IPL,Imperial County Airport,Imperial / El Centro,United States
+261,/flights-from-kirksville-irk,IRK,Kirksville Regional Airport,Kirksville,United States
+262,/flights-from-ithaca-ith,ITH,Ithaca Tompkins Regional Airport,Ithaca,United States
+263,/flights-from-hilo-ito,ITO,Hilo International Airport,Hilo,United States
+264,/flights-from-ironwood-iwd,IWD,Gogebic-Iron County Airport,Ironwood,United States
+265,/flights-from-jackson-jac,JAC,Jackson Hole Airport,Jackson,United States
+266,/flights-from-jackson-jan,JAN,Jackson-Evers International Airport,Jackson,United States
+267,/flights-from-jacksonville-jax,JAX,Jacksonville International Airport,Jacksonville,United States
+268,/flights-from-jonesboro-jbr,JBR,Jonesboro Municipal Airport,Jonesboro,United States
+269,/flights-from-new-york-city-jfk,JFK,John F. Kennedy International Airport,New York City,United States
+270,/flights-from-kapalua-jhm,JHM,Kapalua Airport,Kapalua,United States
+271,/flights-from-joplin-jln,JLN,Joplin Regional Airport,Joplin,United States
+272,/flights-from-jamestown-jms,JMS,Jamestown Regional Airport,Jamestown,United States
+273,/flights-from-juneau-jnu,JNU,Juneau International Airport,Juneau,United States
+274,/flights-from-johnstown-jst,JST,John Murtha Johnstown-Cambria County Airport,Johnstown,United States
+275,/flights-from-kake-kae,KAE,Kake Airport (FAA: AFE),Kake,United States
+276,/flights-from-kaltag-kal,KAL,Kaltag Airport,Kaltag,United States
+277,/flights-from-birch-creek-kbc,KBC,Birch Creek Airport (FAA: Z91),Birch Creek,United States
+278,/flights-from-coffman-cove-kcc,KCC,Coffman Cove Seaplane Base,Coffman Cove,United States
+279,/flights-from-nanwalek-english-bay-keb,KEB,Nanwalek Airport (English Bay Airport),Nanwalek (English Bay),United States
+280,/flights-from-ekwok-kek,KEK,Ekwok Airport,Ekwok,United States
+281,/flights-from-koliganek-kgk,KGK,Koliganek Airport (FAA: JZZ),Koliganek,United States
+282,/flights-from-grayling-kgx,KGX,Grayling Airport,Grayling,United States
+283,/flights-from-koyuk-kka,KKA,Koyuk Alfred Adams Airport,Koyuk,United States
+284,/flights-from-kitoi-bay-kkb,KKB,Kitoi Bay Seaplane Base,Kitoi Bay,United States
+285,/flights-from-kongiganak-kkh,KKH,Kongiganak Airport (FAA: DUY),Kongiganak,United States
+286,/flights-from-akiachak-kki,KKI,Akiachak Seaplane Base,Akiachak,United States
+287,/flights-from-kalskag-klg,KLG,Kalskag Airport,Kalskag,United States
+288,/flights-from-larsen-bay-kln,KLN,Larsen Bay Airport (FAA: 2A3),Larsen Bay,United States
+289,/flights-from-klawock-klw,KLW,Klawock Airport (FAA: AKW),Klawock,United States
+290,/flights-from-manokotak-kmo,KMO,Manokotak Airport (FAA: MBA),Manokotak,United States
+291,/flights-from-moser-bay-kmy,KMY,Moser Bay Seaplane Base,Moser Bay,United States
+292,/flights-from-kakhonak-knk,KNK,Kokhanok Airport (FAA: 9K2),Kakhonak,United States
+293,/flights-from-new-stuyahok-knw,KNW,New Stuyahok Airport,New Stuyahok,United States
+294,/flights-from-kailua-kona-koa,KOA,Kona International Airport,Kailua-Kona,United States
+295,/flights-from-olga-bay-koy,KOY,Olga Bay Seaplane Base,Olga Bay,United States
+296,/flights-from-ouzinkie-koz,KOZ,Ouzinkie Airport (FAA: 4K5),Ouzinkie,United States
+297,/flights-from-point-baker-kpb,KPB,Point Baker Seaplane Base,Point Baker,United States
+298,/flights-from-kipnuk-kpn,KPN,Kipnuk Airport (FAA: IIK),Kipnuk,United States
+299,/flights-from-port-williams-kpr,KPR,Port Williams Seaplane Base,Port Williams,United States
+300,/flights-from-port-bailey-kpy,KPY,Port Bailey Seaplane Base,Port Bailey,United States
+301,/flights-from-st-mary-s-ksm,KSM,St. Mary's Airport,St. Mary's,United States
+302,/flights-from-thorne-bay-ktb,KTB,Thorne Bay Seaplane Base,Thorne Bay,United States
+303,/flights-from-ketchikan-ktn,KTN,Ketchikan International Airport,Ketchikan,United States
+304,/flights-from-brevig-mission-kts,KTS,Brevig Mission Airport,Brevig Mission,United States
+305,/flights-from-kasigluk-kuk,KUK,Kasigluk Airport (FAA: Z09),Kasigluk,United States
+306,/flights-from-kivalina-kvl,KVL,Kivalina Airport,Kivalina,United States
+307,/flights-from-waterfall-kwf,KWF,Waterfall Seaplane Base,Waterfall,United States
+308,/flights-from-kwigillingok-kwk,KWK,Kwigillingok Seaplane Base,Kwigillingok,United States
+309,/flights-from-quinhagak-kwn,KWN,Quinhagak Airport (FAA: AQH),Quinhagak,United States
+310,/flights-from-west-point-kwp,KWP,West Point Village Seaplane Base,West Point,United States
+311,/flights-from-kwethluk-kwt,KWT,Kwethluk Airport,Kwethluk,United States
+312,/flights-from-kasaan-kxa,KXA,Kasaan Airport,Kasaan,United States
+313,/flights-from-karluk-kyk,KYK,Karluk Airport,Karluk,United States
+314,/flights-from-koyukuk-kyu,KYU,Koyukuk Airport,Koyukuk,United States
+315,/flights-from-zachar-bay-kzb,KZB,Zachar Bay Seaplane Base,Zachar Bay,United States
+316,/flights-from-lansing-lan,LAN,Capital Region International Airport,Lansing,United States
+317,/flights-from-laramie-lar,LAR,Laramie Regional Airport,Laramie,United States
+318,/flights-from-las-vegas-las,LAS,McCarran International Airport,Las Vegas,United States
+319,/flights-from-lawton-law,LAW,Lawton-Fort Sill Regional Airport,Lawton,United States
+320,/flights-from-los-angeles-lax,LAX,Los Angeles International Airport,Los Angeles,United States
+321,/flights-from-lubbock-lbb,LBB,Lubbock Preston Smith International Airport,Lubbock,United States
+322,/flights-from-latrobe-lbe,LBE,Arnold Palmer Regional Airport,Latrobe,United States
+323,/flights-from-north-platte-lbf,LBF,North Platte Regional Airport (Lee Bird Field),North Platte,United States
+324,/flights-from-liberal-lbl,LBL,Liberal Municipal Airport,Liberal,United States
+325,/flights-from-lake-charles-lch,LCH,Lake Charles Regional Airport,Lake Charles,United States
+326,/flights-from-columbus-lck,LCK,Rickenbacker International Airport,Columbus,United States
+327,/flights-from-lebanon-leb,LEB,Lebanon Municipal Airport,Lebanon,United States
+328,/flights-from-lexington-lex,LEX,Blue Grass Airport,Lexington,United States
+329,/flights-from-lafayette-lft,LFT,Lafayette Regional Airport,Lafayette,United States
+330,/flights-from-new-york-city-lga,LGA,LaGuardia Airport,New York City,United States
+331,/flights-from-long-beach-lgb,LGB,Long Beach Airport,Long Beach,United States
+332,/flights-from-little-rock-lit,LIT,Little Rock National Airport (Adams Field),Little Rock,United States
+333,/flights-from-lake-minchumina-lma,LMA,Lake Minchumina Airport (FAA: MHM),Lake Minchumina,United States
+334,/flights-from-lincoln-lnk,LNK,Lincoln Airport,Lincoln,United States
+335,/flights-from-lancaster-lns,LNS,Lancaster Airport,Lancaster,United States
+336,/flights-from-lanai-city-lny,LNY,Lanai Airport,Lanai City,United States
+337,/flights-from-laredo-lrd,LRD,Laredo International Airport,Laredo,United States
+338,/flights-from-la-crosse-lse,LSE,La Crosse Municipal Airport,La Crosse,United States
+339,/flights-from-kalaupapa-lup,LUP,Kalaupapa Airport,Kalaupapa,United States
+340,/flights-from-cape-lisburne-lur,LUR,Cape Lisburne LRRS Airport,Cape Lisburne,United States
+341,/flights-from-lewisburg-lwb,LWB,Greenbrier Valley Airport,Lewisburg,United States
+342,/flights-from-lewiston-lws,LWS,Lewiston-Nez Perce County Airport,Lewiston,United States
+343,/flights-from-lynchburg-lyh,LYH,Lynchburg Regional Airport (Preston Glenn Field),Lynchburg,United States
+344,/flights-from-midland-maf,MAF,Midland International Airport,Midland,United States
+345,/flights-from-manistee-mbl,MBL,Manistee County-Blacker Airport,Manistee,United States
+346,/flights-from-saginaw-mbs,MBS,MBS International Airport,Saginaw,United States
+347,/flights-from-merced-mce,MCE,Merced Municipal Airport (Macready Field),Merced,United States
+348,/flights-from-mcgrath-mcg,MCG,McGrath Airport,McGrath,United States
+349,/flights-from-kansas-city-mci,MCI,Kansas City International Airport,Kansas City,United States
+350,/flights-from-mccook-mck,MCK,McCook Regional Airport,McCook,United States
+351,/flights-from-macon-mcn,MCN,Middle Georgia Regional Airport,Macon,United States
+352,/flights-from-orlando-mco,MCO,Orlando International Airport,Orlando,United States
+353,/flights-from-mason-city-mcw,MCW,Mason City Municipal Airport,Mason City,United States
+354,/flights-from-harrisburg-mdt,MDT,Harrisburg International Airport,Harrisburg,United States
+355,/flights-from-chicago-mdw,MDW,Midway International Airport,Chicago,United States
+356,/flights-from-meridian-mei,MEI,Key Field,Meridian,United States
+357,/flights-from-memphis-mem,MEM,Memphis International Airport,Memphis,United States
+358,/flights-from-mcallen-mfe,MFE,McAllen-Miller International Airport,McAllen,United States
+359,/flights-from-medford-mfr,MFR,Rogue Valley International-Medford Airport,Medford,United States
+360,/flights-from-montgomery-mgm,MGM,Montgomery Regional Airport (Dannelly Field),Montgomery,United States
+361,/flights-from-morgantown-mgw,MGW,Morgantown Municipal Airport (Walter L. Bill Hart Field,Morgantown,United States
+362,/flights-from-manhattan-mhk,MHK,Manhattan Regional Airport,Manhattan,United States
+363,/flights-from-manchester-mht,MHT,Manchester-Boston Regional Airport,Manchester,United States
+364,/flights-from-miami-mia,MIA,Miami International Airport,Miami,United States
+365,/flights-from-milwaukee-mke,MKE,General Mitchell International Airport,Milwaukee,United States
+366,/flights-from-muskegon-mkg,MKG,Muskegon County Airport,Muskegon,United States
+367,/flights-from-hoolehua-kaunakakai-mkk,MKK,Molokai Airport,Hoolehua / Kaunakakai,United States
+368,/flights-from-jackson-mkl,MKL,McKellar-Sipes Regional Airport,Jackson,United States
+369,/flights-from-melbourne-mlb,MLB,Melbourne International Airport,Melbourne,United States
+370,/flights-from-moline-mli,MLI,Quad City International Airport,Moline,United States
+371,/flights-from-marshall-mll,MLL,Marshall Don Hunter Sr. Airport (FAA: MDM),Marshall,United States
+372,/flights-from-monroe-mlu,MLU,Monroe Regional Airport,Monroe,United States
+373,/flights-from-mammoth-lakes-mmh,MMH,Mammoth Yosemite Airport,Mammoth Lakes,United States
+374,/flights-from-mobile-mob,MOB,Mobile Regional Airport,Mobile,United States
+375,/flights-from-minot-mot,MOT,Minot International Airport,Minot,United States
+376,/flights-from-mountain-village-mou,MOU,Mountain Village Airport,Mountain Village,United States
+377,/flights-from-marquette-mqt,MQT,Sawyer International Airport (FAA: SAW),Marquette,United States
+378,/flights-from-anchorage-mri,MRI,Merrill Field,Anchorage,United States
+379,/flights-from-monterey-mry,MRY,Monterey Regional Airport,Monterey,United States
+380,/flights-from-muscle-shoals-msl,MSL,Northwest Alabama Regional Airport,Muscle Shoals,United States
+381,/flights-from-madison-msn,MSN,Dane County Regional Airport (Truax Field),Madison,United States
+382,/flights-from-missoula-mso,MSO,Missoula International Airport,Missoula,United States
+383,/flights-from-minneapolis-msp,MSP,Minneapolis-Saint Paul International Airport (Wold-Cham,Minneapolis,United States
+384,/flights-from-massena-mss,MSS,Massena International Airport (Richards Field),Massena,United States
+385,/flights-from-new-orleans-msy,MSY,Louis Armstrong New Orleans International Airport (form,New Orleans,United States
+386,/flights-from-montrose-mtj,MTJ,Montrose Regional Airport,Montrose,United States
+387,/flights-from-metlakatla-mtm,MTM,Metlakatla Seaplane Base,Metlakatla,United States
+388,/flights-from-kamuela-mue,MUE,Waimea-Kohala Airport,Kamuela,United States
+389,/flights-from-martha-s-vineyard-mvy,MVY,Martha's Vineyard Airport,Martha's Vineyard,United States
+390,/flights-from-marion-mwa,MWA,Williamson County Regional Airport,Marion,United States
+391,/flights-from-myrtle-beach-myr,MYR,Myrtle Beach International Airport,Myrtle Beach,United States
+392,/flights-from-mekoryuk-myu,MYU,Mekoryuk Airport,Mekoryuk,United States
+393,/flights-from-chenega-ncn,NCN,Chenega Bay Airport (FAA: C05),Chenega,United States
+394,/flights-from-nikolai-nib,NIB,Nikolai Airport (FAA: FSP),Nikolai,United States
+395,/flights-from-naukiti-nki,NKI,,Naukiti,United States
+396,/flights-from-nightmute-nme,NME,Nightmute Airport (FAA: IGT),Nightmute,United States
+397,/flights-from-nondalton-nnl,NNL,Nondalton Airport (FAA: 5NN),Nondalton,United States
+398,/flights-from-nuiqsut-nui,NUI,Nuiqsut Airport (FAA: AQT),Nuiqsut,United States
+399,/flights-from-nulato-nul,NUL,Nulato Airport,Nulato,United States
+400,/flights-from-nunapitchuk-nup,NUP,Nunapitchuk Airport (FAA: 16A),Nunapitchuk,United States
+401,/flights-from-jacksonville-oaj,OAJ,Albert J. Ellis Airport,Jacksonville,United States
+402,/flights-from-kobuk-obu,OBU,Kobuk Airport,Kobuk,United States
+403,/flights-from-ogden-ogd,OGD,Ogden-Hinckley Airport,Ogden,United States
+404,/flights-from-kahului-ogg,OGG,Kahului Airport,Kahului,United States
+405,/flights-from-ogdensburg-ogs,OGS,Ogdensburg International Airport,Ogdensburg,United States
+406,/flights-from-oklahoma-city-okc,OKC,Will Rogers World Airport,Oklahoma City,United States
+407,/flights-from-wolf-point-olf,OLF,L. M. Clayton Airport,Wolf Point,United States
+408,/flights-from-old-harbor-olh,OLH,Old Harbor Airport (FAA: 6R7),Old Harbor,United States
+409,/flights-from-omaha-oma,OMA,Eppley Airfield,Omaha,United States
+410,/flights-from-nome-ome,OME,Nome Airport,Nome,United States
+411,/flights-from-ontario-ont,ONT,Ontario International Airport,Ontario,United States
+412,/flights-from-toksook-bay-ook,OOK,Toksook Bay Airport,Toksook Bay,United States
+413,/flights-from-chicago-ord,ORD,O'Hare International Airport (formerly Orchard Depot Fi,Chicago,United States
+414,/flights-from-norfolk-orf,ORF,Norfolk International Airport,Norfolk,United States
+415,/flights-from-port-lions-ori,ORI,Port Lions Airport,Port Lions,United States
+416,/flights-from-northway-ort,ORT,Northway Airport,Northway,United States
+417,/flights-from-noorvik-orv,ORV,Robert (Bob) Curtis Memorial Airport (FAA: D76),Noorvik,United States
+418,/flights-from-north-bend-oth,OTH,North Bend Municipal Airport,North Bend,United States
+419,/flights-from-kotzebue-otz,OTZ,Ralph Wien Memorial Airport,Kotzebue,United States
+420,/flights-from-owensboro-owb,OWB,Owensboro-Daviess County Airport,Owensboro,United States
+421,/flights-from-norwood-owd,OWD,Norwood Memorial Airport,Norwood,United States
+422,/flights-from-everett-pae,PAE,Snohomish County Airport (Paine Field),Everett,United States
+423,/flights-from-paducah-pah,PAH,Barkley Regional Airport,Paducah,United States
+424,/flights-from-plattsburgh-pbg,PBG,Plattsburgh International Airport,Plattsburgh,United States
+425,/flights-from-west-palm-beach-pbi,PBI,Palm Beach International Airport,West Palm Beach,United States
+426,/flights-from-pedro-bay-pdb,PDB,Pedro Bay Airport (FAA: 4K0),Pedro Bay,United States
+427,/flights-from-pendleton-pdt,PDT,Eastern Oregon Regional Airport,Pendleton,United States
+428,/flights-from-portland-pdx,PDX,Portland International Airport,Portland,United States
+429,/flights-from-pelican-pec,PEC,Pelican Seaplane Base,Pelican,United States
+430,/flights-from-page-pga,PGA,Page Municipal Airport,Page,United States
+431,/flights-from-punta-gorda-pgd,PGD,Charlotte County Airport,Punta Gorda,United States
+432,/flights-from-port-graham-pgm,PGM,Port Graham Airport,Port Graham,United States
+433,/flights-from-greenville-pgv,PGV,Pitt-Greenville Airport,Greenville,United States
+434,/flights-from-newport-news-phf,PHF,Newport News/Williamsburg International Airport,Newport News,United States
+435,/flights-from-philadelphia-phl,PHL,Philadelphia International Airport,Philadelphia,United States
+436,/flights-from-point-hope-pho,PHO,Point Hope Airport,Point Hope,United States
+437,/flights-from-phoenix-phx,PHX,Phoenix Sky Harbor International Airport,Phoenix,United States
+438,/flights-from-peoria-pia,PIA,Greater Peoria Regional Airport,Peoria,United States
+439,/flights-from-hattiesburg-laurel-pib,PIB,Hattiesburg-Laurel Regional Airport,Hattiesburg / Laurel,United States
+440,/flights-from-tampa-pie,PIE,St. Petersburg-Clearwater International Airport,Tampa,United States
+441,/flights-from-pocatello-pih,PIH,Pocatello Regional Airport,Pocatello,United States
+442,/flights-from-pierre-pir,PIR,Pierre Regional Airport,Pierre,United States
+443,/flights-from-pittsburgh-pit,PIT,Pittsburgh International Airport,Pittsburgh,United States
+444,/flights-from-point-lay-piz,PIZ,Point Lay LRRS Airport,Point Lay,United States
+445,/flights-from-napaskiak-pka,PKA,Napaskiak Airport,Napaskiak,United States
+446,/flights-from-parkersburg-pkb,PKB,Mid-Ohio Valley Regional Airport,Parkersburg,United States
+447,/flights-from-pellston-pln,PLN,Pellston Regional Airport,Pellston,United States
+448,/flights-from-pensacola-pns,PNS,Pensacola Regional Airport,Pensacola,United States
+449,/flights-from-port-protection-ppv,PPV,Port Protection Seaplane Base (FAA: 19P),Port Protection,United States
+450,/flights-from-presque-isle-pqi,PQI,Northern Maine Regional Airport at Presque Isle,Presque Isle,United States
+451,/flights-from-pilot-station-pqs,PQS,Pilot Station Airport (FAA: 0AK),Pilot Station,United States
+452,/flights-from-prescott-prc,PRC,Ernest A. Love Field,Prescott,United States
+453,/flights-from-pasco-psc,PSC,Tri-Cities Airport,Pasco,United States
+454,/flights-from-petersburg-psg,PSG,Petersburg James A. Johnson Airport,Petersburg,United States
+455,/flights-from-portsmouth-psm,PSM,Pease International Tradeport,Portsmouth,United States
+456,/flights-from-palm-springs-psp,PSP,Palm Springs International Airport,Palm Springs,United States
+457,/flights-from-port-alsworth-pta,PTA,Port Alsworth Airport (FAA: TPO),Port Alsworth,United States
+458,/flights-from-platinum-ptu,PTU,Platinum Airport,Platinum,United States
+459,/flights-from-pueblo-pub,PUB,Pueblo Memorial Airport,Pueblo,United States
+460,/flights-from-pullman-puw,PUW,Pullman-Moscow Regional Airport,Pullman,United States
+461,/flights-from-provincetown-pvc,PVC,Provincetown Municipal Airport,Provincetown,United States
+462,/flights-from-providence-pvd,PVD,Theodore Francis Green State Airport,Providence,United States
+463,/flights-from-provo-pvu,PVU,Provo Municipal Airport,Provo,United States
+464,/flights-from-portland-pwm,PWM,Portland International Jetport,Portland,United States
+465,/flights-from-rapid-city-rap,RAP,Rapid City Regional Airport,Rapid City,United States
+466,/flights-from-ruby-rby,RBY,Ruby Airport,Ruby,United States
+467,/flights-from-redding-rdd,RDD,Redding Municipal Airport,Redding,United States
+468,/flights-from-redmond-bend-rdm,RDM,Roberts Field,Redmond / Bend,United States
+469,/flights-from-raleigh-durham-rdu,RDU,Raleigh-Durham International Airport,Raleigh / Durham,United States
+470,/flights-from-red-devil-rdv,RDV,Red Devil Airport,Red Devil,United States
+471,/flights-from-chicago-rockford-rfd,RFD,Chicago Rockford International Airport (Greater Rockfor,Chicago (Rockford),United States
+472,/flights-from-rhinelander-rhi,RHI,Rhinelander-Oneida County Airport,Rhinelander,United States
+473,/flights-from-richmond-ric,RIC,Richmond International Airport,Richmond,United States
+474,/flights-from-riverton-riw,RIW,Riverton Regional Airport,Riverton,United States
+475,/flights-from-rockland-rkd,RKD,Knox County Regional Airport,Rockland,United States
+476,/flights-from-rock-springs-rks,RKS,Rock Springs-Sweetwater County Airport,Rock Springs,United States
+477,/flights-from-reno-rno,RNO,Reno-Tahoe International Airport,Reno,United States
+478,/flights-from-roanoke-roa,ROA,Roanoke Regional Airport (Woodrum Field),Roanoke,United States
+479,/flights-from-rochester-roc,ROC,Greater Rochester International Airport,Rochester,United States
+480,/flights-from-roswell-row,ROW,Roswell International Air Center,Roswell,United States
+481,/flights-from-russian-mission-rsh,RSH,Russian Mission Airport,Russian Mission,United States
+482,/flights-from-rochester-rst,RST,Rochester International Airport,Rochester,United States
+483,/flights-from-fort-myers-rsw,RSW,Southwest Florida International Airport,Fort Myers,United States
+484,/flights-from-rutland-rut,RUT,Rutland State Airport,Rutland,United States
+485,/flights-from-santa-fe-saf,SAF,Santa Fe Municipal Airport,Santa Fe,United States
+486,/flights-from-san-diego-san,SAN,San Diego International Airport,San Diego,United States
+487,/flights-from-san-antonio-sat,SAT,San Antonio International Airport,San Antonio,United States
+488,/flights-from-savannah-sav,SAV,Savannah/Hilton Head International Airport,Savannah,United States
+489,/flights-from-santa-barbara-sba,SBA,Santa Barbara Municipal Airport,Santa Barbara,United States
+490,/flights-from-south-bend-sbn,SBN,South Bend Regional Airport,South Bend,United States
+491,/flights-from-san-luis-obispo-sbp,SBP,San Luis Obispo County Regional Airport,San Luis Obispo,United States
+492,/flights-from-salisbury-ocean-city-sby,SBY,Salisbury-Ocean City Wicomico Regional Airport,Salisbury / Ocean City,United States
+493,/flights-from-prudhoe-bay-deadhorse-scc,SCC,Deadhorse Airport,Prudhoe Bay / Deadhorse,United States
+494,/flights-from-state-college-sce,SCE,University Park Airport (FAA: UNV),State College,United States
+495,/flights-from-stockton-sck,SCK,Stockton Metropolitan Airport,Stockton,United States
+496,/flights-from-scammon-bay-scm,SCM,Scammon Bay Airport,Scammon Bay,United States
+497,/flights-from-louisville-sdf,SDF,Louisville International Airport (Standiford Field),Louisville,United States
+498,/flights-from-sand-point-sdp,SDP,Sand Point Airport,Sand Point,United States
+499,/flights-from-sidney-sdy,SDY,Sidney-Richland Municipal Airport,Sidney,United States
+500,/flights-from-seattle-tacoma-sea,SEA,Seattle–Tacoma International Airport,Seattle / Tacoma,United States
+501,/flights-from-orlando-sfb,SFB,Orlando Sanford International Airport,Orlando,United States
+502,/flights-from-san-francisco-sfo,SFO,San Francisco International Airport,San Francisco,United States
+503,/flights-from-springfield-branson-sgf,SGF,Springfield-Branson National Airport,Springfield / Branson,United States
+504,/flights-from-st-george-sgu,SGU,St. George Municipal Airport,St. George,United States
+505,/flights-from-skagway-sgy,SGY,Skagway Airport,Skagway,United States
+506,/flights-from-staunton-waynesboro-shd,SHD,Shenandoah Valley Regional Airport,Staunton / Waynesboro        ,United States
+507,/flights-from-shungnak-shg,SHG,Shungnak Airport,Shungnak,United States
+508,/flights-from-shishmaref-shh,SHH,Shishmaref Airport,Shishmaref,United States
+509,/flights-from-sheridan-shr,SHR,Sheridan County Airport,Sheridan,United States
+510,/flights-from-shreveport-shv,SHV,Shreveport Regional Airport,Shreveport,United States
+511,/flights-from-shageluk-shx,SHX,Shageluk Airport,Shageluk,United States
+512,/flights-from-sitka-sit,SIT,Sitka Rocky Gutierrez Airport,Sitka,United States
+513,/flights-from-san-jose-sjc,SJC,Norman Y. Mineta San Jose International Airport,San Jose,United States
+514,/flights-from-san-angelo-sjt,SJT,San Angelo Regional Airport,San Angelo,United States
+515,/flights-from-shaktoolik-skk,SKK,Shaktoolik Airport,Shaktoolik,United States
+516,/flights-from-salt-lake-city-slc,SLC,Salt Lake City International Airport,Salt Lake City,United States
+517,/flights-from-saranac-lake-slk,SLK,Adirondack Regional Airport,Saranac Lake,United States
+518,/flights-from-salina-sln,SLN,Salina Regional Airport,Salina,United States
+519,/flights-from-sleetmute-slq,SLQ,Sleetmute Airport,Sleetmute,United States
+520,/flights-from-sacramento-smf,SMF,Sacramento International Airport,Sacramento,United States
+521,/flights-from-st-michael-smk,SMK,St. Michael Airport,St. Michael,United States
+522,/flights-from-santa-maria-smx,SMX,Santa Maria Public Airport,Santa Maria,United States
+523,/flights-from-santa-ana-sna,SNA,John Wayne Airport,Santa Ana,United States
+524,/flights-from-st-paul-island-snp,SNP,St. Paul Island Airport,St. Paul Island,United States
+525,/flights-from-seldovia-sov,SOV,Seldovia Airport,Seldovia,United States
+526,/flights-from-show-low-sow,SOW,Show Low Regional Airport,Show Low,United States
+527,/flights-from-springfield-spi,SPI,Abraham Lincoln Capital Airport,Springfield,United States
+528,/flights-from-wichita-falls-sps,SPS,Sheppard AFB / Wichita Falls Municipal Airport,Wichita Falls,United States
+529,/flights-from-sarasota-bradenton-srq,SRQ,Sarasota-Bradenton International Airport,Sarasota / Bradenton,United States
+530,/flights-from-stony-river-srv,SRV,Stony River 2 Airport,Stony River,United States
+531,/flights-from-st-cloud-stc,STC,St. Cloud Regional Airport,St. Cloud,United States
+532,/flights-from-st-louis-stl,STL,Lambert-Saint Louis International Airport,St. Louis,United States
+533,/flights-from-santa-rosa-sts,STS,Charles M. Schulz Sonoma County Airport,Santa Rosa,United States
+534,/flights-from-hailey-sun-valley-sun,SUN,Friedman Memorial Airport,Hailey / Sun Valley,United States
+535,/flights-from-sioux-city-sux,SUX,Sioux Gateway Airport (Colonel Bud Day Field),Sioux City,United States
+536,/flights-from-savoonga-sva,SVA,Savoonga Airport,Savoonga,United States
+537,/flights-from-silver-city-svc,SVC,Grant County Airport,Silver City,United States
+538,/flights-from-stillwater-swo,SWO,Stillwater Regional Airport,Stillwater,United States
+539,/flights-from-seal-bay-syb,SYB,Seal Bay Seaplane Base,Seal Bay,United States
+540,/flights-from-syracuse-syr,SYR,Syracuse Hancock International Airport,Syracuse,United States
+541,/flights-from-tanana-tal,TAL,Ralph M. Calhoun Memorial Airport,Tanana,United States
+542,/flights-from-fort-leonard-wood-tbn,TBN,Waynesville-St. Robert Regional Airport (Forney Field),Fort Leonard Wood,United States
+543,/flights-from-takotna-tct,TCT,Takotna Airport,Takotna,United States
+544,/flights-from-teterboro-teb,TEB,Teterboro Airport,Teterboro,United States
+545,/flights-from-tatitlek-tek,TEK,Tatitlek Airport (FAA: 7KA),Tatitlek,United States
+546,/flights-from-telluride-tex,TEX,Telluride Regional Airport,Telluride,United States
+547,/flights-from-tenakee-springs-tke,TKE,Tenakee Seaplane Base,Tenakee Springs,United States
+548,/flights-from-tok-tkj,TKJ,Tok Airport,Tok,United States
+549,/flights-from-teller-tla,TLA,Teller Airport (FAA: TER),Teller,United States
+550,/flights-from-tallahassee-tlh,TLH,Tallahassee Regional Airport,Tallahassee,United States
+551,/flights-from-tuluksak-tlt,TLT,Tuluksak Airport,Tuluksak,United States
+552,/flights-from-tin-city-tnc,TNC,Tin City LRRS Airport,Tin City,United States
+553,/flights-from-tununak-tnk,TNK,Tununak Airport (FAA: 4KA),Tununak,United States
+554,/flights-from-toledo-tol,TOL,Toledo Express Airport,Toledo,United States
+555,/flights-from-tampa-tpa,TPA,Tampa International Airport,Tampa,United States
+556,/flights-from-trenton-ttn,TTN,Trenton-Mercer Airport,Trenton,United States
+557,/flights-from-tulsa-tul,TUL,Tulsa International Airport,Tulsa,United States
+558,/flights-from-tupelo-tup,TUP,Tupelo Regional Airport,Tupelo,United States
+559,/flights-from-tucson-tus,TUS,Tucson International Airport,Tucson,United States
+560,/flights-from-traverse-city-tvc,TVC,Cherry Capital Airport,Traverse City,United States
+561,/flights-from-thief-river-falls-tvf,TVF,Thief River Falls Regional Airport,Thief River Falls,United States
+562,/flights-from-twin-falls-twf,TWF,Magic Valley Regional Airport (Joslin Field),Twin Falls,United States
+563,/flights-from-texarkana-txk,TXK,Texarkana Regional Airport (Webb Field),Texarkana,United States
+564,/flights-from-tyler-tyr,TYR,Tyler Pounds Regional Airport,Tyler,United States
+565,/flights-from-knoxville-tys,TYS,McGhee Tyson Airport,Knoxville,United States
+566,/flights-from-uganik-ugi,UGI,Uganik Airport,Uganik,United States
+567,/flights-from-quincy-uin,UIN,Quincy Regional Airport (Baldwin Field),Quincy,United States
+568,/flights-from-unalakleet-unk,UNK,Unalakleet Airport,Unalakleet,United States
+569,/flights-from-concord-usa,USA,Concord Regional Airport,Concord,United States
+570,/flights-from-chevak-vak,VAK,Chevak Airport,Chevak,United States
+571,/flights-from-victoria-vct,VCT,Victoria Regional Airport,Victoria,United States
+572,/flights-from-valdez-vdz,VDZ,Valdez Airport (Pioneer Field),Valdez,United States
+573,/flights-from-venetie-vee,VEE,Venetie Airport,Venetie,United States
+574,/flights-from-vernal-vel,VEL,Vernal Airport,Vernal,United States
+575,/flights-from-valdosta-vld,VLD,Valdosta Regional Airport,Valdosta,United States
+576,/flights-from-destin-fort-walton-beach-vps,VPS,Northwest Florida Regional Airport / Eglin Air Force Ba,Destin / Fort Walton Beach,United States
+577,/flights-from-vieques-vqs,VQS,Antonio Rivera Rodriguez Airport,Vieques,United States
+578,/flights-from-vero-beach-vrb,VRB,Vero Beach Municipal Airport,Vero Beach,United States
+579,/flights-from-wales-waa,WAA,Wales Airport (FAA: IWK),Wales,United States
+580,/flights-from-stebbins-wbb,WBB,Stebbins Airport,Stebbins,United States
+581,/flights-from-selawik-wlk,WLK,Selawik Airport,Selawik,United States
+582,/flights-from-meyers-chuck-wmk,WMK,Meyers Chuck Airport,Meyers Chuck,United States
+583,/flights-from-white-mountain-wmo,WMO,White Mountain Airport,White Mountain,United States
+584,/flights-from-napakiak-wna,WNA,Napakiak Airport,Napakiak,United States
+585,/flights-from-wrangell-wrg,WRG,Wrangell Airport,Wrangell,United States
+586,/flights-from-noatak-wtk,WTK,Noatak Airport,Noatak,United States
+587,/flights-from-tuntutuliak-wtl,WTL,Tuntutuliak Airport (FAA: A61),Tuntutuliak,United States
+588,/flights-from-north-whale-pass-wwp,WWP,North Whale Seaplane Base (FAA: 96Z),North Whale Pass,United States
+589,/flights-from-newtok-wwt,WWT,Newtok Airport (FAA: EWU),Newtok,United States
+590,/flights-from-west-yellowstone-wys,WYS,Yellowstone Airport,West Yellowstone,United States
+591,/flights-from-fayetteville-xna,XNA,Northwest Arkansas Regional Airport,Fayetteville,United States
+592,/flights-from-williston-xwa,XWA,Williston Basin International Airport,Williston,United States
+593,/flights-from-yakutat-yak,YAK,Yakutat Airport,Yakutat,United States
+594,/flights-from-yakima-ykm,YKM,Yakima Air Terminal (McAllister Field),Yakima,United States
+595,/flights-from-yuma-yum,YUM,Yuma International Airport / MCAS Yuma (FAA: NYL),Yuma,United States
