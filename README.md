@@ -4,4 +4,5 @@
 
 
 The results of the first 30 days of infection spread modelling (cities and directions of infection spread).
-![](output/disease-spread.gif)
+
+<img src="output/disease-spread.gif" alt="drawing"/>
