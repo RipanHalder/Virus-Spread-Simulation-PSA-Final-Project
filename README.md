@@ -41,8 +41,8 @@ All the US Airports fetched from site https://www.flightconnections.com/ as show
 
 Cumulative number of cities affected with Quaranting intervention from 10 days and start after 5 days.
 
-![]["Cumulative_Infected_Cities_10-5.png"]
+![][../output/Quarantine_Results/Cumulative_Infected_Cities_10-5.png]
 
 New cities infected daily because of flight connections
 
-![]["../output/Quarantine_Results/Daily_New_Infected_Cities_3-6.png"]
+![][../output/Quarantine_Results/Daily_New_Infected_Cities_3-6.png]
