@@ -1,17 +1,28 @@
 import unittest
 # import import_ipynb
+import ipynb.fs.full.disease_spread as dis
 # from unittest.mock import patch
-import importlib  
-disease_spread = importlib.import_module("disease-spread")
+# import disease_spread
 
-class TestSirModel(unittest.TestCase):
+class TestDiseaseSpread(unittest.TestCase):
     
-    
-    
-    def test_Prb_IngPlane(self):
-        self.assertEqual(disease_spread.probability_of_infected_plane(2/4), 0.5)
-    
+    def test_Prb_InfPlane(self):
+        self.assertEqual(dis.probability_of_infected_plane(2,4), 0.5)
+        
+#     def test_Prb_InfCity(self):
+#         self.assertIsNotNone(dis.probability_of_infected_city(10, 100, [5,6]))
 
+    def test_cityNeighbours(self):
+        self.assertIsNotNone(dis.find_neighbours_of_a_city("Boston"))
+        
+    def test_healthy_airports(self):
+        self.assertIsNotNone(dis.find_all_current_healthy_airports(["BOS","NYC"]))
+        
+    def test_infected_airports(self):
+        self.assertIsNotNone(dis.find_all_current_infected_airports(["BOS","NYC"]))
+ 
+    
+    
         
 
 if __name__ == '__main__':
