@@ -61,3 +61,8 @@ Total Cumulative COVID 19 Recovered Cases
 
 New cases last 7 days
 !![New cases last 7 days]('output/new_cases_figure.html')
+
+
+```{r showChoro1}
+shiny::includeHTML("output/new_cases_figure.html")
+```
