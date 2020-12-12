@@ -1,7 +1,11 @@
 # Info6205 - FinalProject - Virus Transfer Simulation
 
-#### Akash Sinha NU ID - 001344425 
-#### Ripan Halder NU ID - 001442993
+#### Akash Sinha NU ID - 001344425 - <sinha.aka@northeastern.edu>
+#### Ripan Halder NU ID - 001442993 - <halder.r@northeastern.edu>
+
+#### Section - 2
+#### Final Project Team No - 15
+
 ## Introduction
 Since the onset of last year, the disease COVID-19 has spread all over the world and has infected millions of people and killed thousands of them. If not avoided, it could have been prevented from spreading all over the world. Airports and flights connections made it possible to spread very rapidly. 
 
