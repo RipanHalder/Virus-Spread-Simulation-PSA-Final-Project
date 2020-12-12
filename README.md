@@ -27,13 +27,13 @@ The project collects airport and flight connections data of all the airports in 
 5. Fetc, parse the data and finally clean it before using it.
 6. Run both files present in data_parsing folders first.
 7. Results are stored in data fodler.
-8. Then run, disease-spread jupyter file  and finally visualize  jupyter file.
+8. Then run, disease_spread jupyter file  and finally visualize  jupyter file.
 
 ## Observations
 
 The results of the first 30 days of infection spread modelling (cities and directions of infection spread).
 
-<img src="output/disease-spread.gif" alt="disease-spread"/>
+<img src="output/disease_spread.gif" alt="disease_spread"/>
 
 All the US Airports fetched from site https://www.flightconnections.com/ as shown below:
 
