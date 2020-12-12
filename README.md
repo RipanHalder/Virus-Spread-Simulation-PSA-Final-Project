@@ -1,7 +1,11 @@
 # Info6205 - FinalProject - Virus Transfer Simulation
 
-#### Akash Sinha NU ID - 001344425 
-#### Ripan Halder NU ID - 001442993
+#### Akash Sinha NU ID - 001344425 - <sinha.aka@northeastern.edu>
+#### Ripan Halder NU ID - 001442993 - <halder.r@northeastern.edu>
+
+#### Section - 2
+#### Final Project Team No - 15
+
 ## Introduction
 Since the onset of last year, the disease COVID-19 has spread all over the world and has infected millions of people and killed thousands of them. If not avoided, it could have been prevented from spreading all over the world. Airports and flights connections made it possible to spread very rapidly. 
 
@@ -27,13 +31,13 @@ The project collects airport and flight connections data of all the airports in 
 5. Fetc, parse the data and finally clean it before using it.
 6. Run both files present in data_parsing folders first.
 7. Results are stored in data fodler.
-8. Then run, disease-spread jupyter file  and finally visualize  jupyter file.
+8. Then run, disease_spread jupyter file  and finally visualize  jupyter file.
 
 ## Observations
 
 The results of the first 30 days of infection spread modelling (cities and directions of infection spread).
 
-<img src="output/disease-spread.gif" alt="disease-spread"/>
+<img src="output/disease_spread.gif" alt="disease_spread"/>
 
 All the US Airports fetched from site https://www.flightconnections.com/ as shown below:
 
@@ -46,4 +50,15 @@ Cumulative number of cities affected with Quaranting intervention from 10 days a
 New cities infected daily because of flight connections
 
 <img src="output/Quarantine_Results/Daily_New_Infected_Cities_3-6.png" alt="Daily New Infected Cities"/>
+
+We are also analyzing the live data of current COVID-19 pandemic from John Hopkins datasets. Below are few current observations:
+
+Total Cumulative COVID 19 Infected Cases
+<img src="output/total_cases_figure.png" alt="Total Cumulative COVID 19 Infected Cases"/>
+
+Total Cumulative COVID 19 Recovered Cases
+<img src="output/total_recovered_figure.png" alt="Total Cumulative COVID 19 Recovered Cases"/>
+
+New cases last 7 days
+<img src="output/new_cases_figure.png" alt="New cases last 7 days"/>
 
