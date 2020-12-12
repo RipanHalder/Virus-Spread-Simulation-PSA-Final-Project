@@ -54,15 +54,11 @@ New cities infected daily because of flight connections
 We are also analyzing the live data of current COVID-19 pandemic from John Hopkins datasets. Below are few current observations:
 
 Total Cumulative COVID 19 Infected Cases
-!![Total Cumulative COVID 19 Infected Cases]('output/total_cases_figure.html')
+<img src="output/total_cases_figure.png" alt="Total Cumulative COVID 19 Infected Cases"/>
 
 Total Cumulative COVID 19 Recovered Cases
-!![Total Cumulative COVID 19 Recovered Cases]('output/total_recovered_figure.html')
+<img src="output/total_recovered_figure.png" alt="Total Cumulative COVID 19 Recovered Cases"/>
 
 New cases last 7 days
-!![New cases last 7 days]('output/new_cases_figure.html')
+<img src="output/new_cases_figure.png" alt="New cases last 7 days"/>
 
-
-```{r showChoro1}
-shiny::includeHTML("output/new_cases_figure.html")
-```
